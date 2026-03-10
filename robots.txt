@@ -1,4 +1,3 @@
 User-agent: *
 Allow: /
-
-Sitemap: https://skyway-core.ru/sitemap.xml
+Sitemap: https://seiko-sukhum.ru/sitemap.xml
